@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Water Melon"
+title                    : "WaterMelon"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
