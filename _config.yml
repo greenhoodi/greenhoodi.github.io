@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "WaterMelon"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "GreenHoodi's blog for weebs"
 url                      : "https://greenhoodi.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -128,8 +128,8 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "Instagram"
+      # url: "https://www.instagram.com/bestboy0604/"
 
 # Site Footer
 footer:
@@ -150,8 +150,8 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      icon: "Instagram"
+      # url: "https://www.instagram.com/bestboy0604/"
 
 
 # Reading Files
